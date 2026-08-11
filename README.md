@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/TULAJAARER/code-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TULAJAARER/code-practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TULAJAARER/code-practice/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TULAJAARER/code-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TULAJAARER/code-practice/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/TULAJAARER/code-practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
